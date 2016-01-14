@@ -2,6 +2,7 @@ name: philjo
 favicon: null
 layout_spectrum: 0.50572
 typography_spectrum: 0.1279
+title: The official website for philjo
 cta:
   domain: null
   bucket: null
