@@ -7,14 +7,15 @@ keywords: []
 description: >-
   23rd Century Poems by philjo has released! You can get it now on your
   favourite digital music store and streaming sites!
-datePublished: '2016-08-09T13:19:45.906Z'
-dateModified: '2016-07-12T11:32:07.782Z'
+datePublished: '2016-08-09T14:32:26.814Z'
+dateModified: '2016-08-09T14:32:22.441Z'
 title: ''
 author: []
 sourcePath: >-
   _posts/2016-07-12-23rd-century-poems-by-philjo-has-released-you-can-get-it-no.md
+via: {}
 authors: []
-publisher: null
+publisher: {}
 starred: false
 url: 23rd-century-poems-by-philjo-has-released-you-can-get-it-no/index.html
 _type: Article
@@ -36,4 +37,3 @@ Google Play: https://play.google.com/store/music/album/Philjo\_23rd\_Century\_Po
 
 Also available on Spotify and Microsoft Groove!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d01bbe0-f69a-43d2-aa58-691d6edbbc03.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c567ead2-52f6-4d86-85e6-00bf4cdc2066.jpg)
