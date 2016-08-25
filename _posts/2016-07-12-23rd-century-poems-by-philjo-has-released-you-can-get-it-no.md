@@ -1,14 +1,14 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: >-
   23rd Century Poems by philjo has released! You can get it now on your
   favourite digital music store and streaming sites!
-datePublished: '2016-08-25T12:22:46.754Z'
-dateModified: '2016-08-25T12:22:41.675Z'
+datePublished: '2016-08-25T13:46:09.405Z'
+dateModified: '2016-08-25T13:46:02.289Z'
 title: ''
 author: []
 sourcePath: >-
