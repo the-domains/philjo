@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T12:40:59.255Z'
+datePublished: '2016-08-31T12:42:31.178Z'
 sourcePath: >-
   _posts/2016-07-12-23rd-century-poems-by-philjo-has-released-you-can-get-it-no.md
 inFeed: true
@@ -10,7 +10,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-31T12:40:58.752Z'
+dateModified: '2016-08-31T12:42:30.682Z'
 title: 23rd Century Poems album cover
 publisher: {}
 description: >-
@@ -27,7 +27,7 @@ _type: Article
 
 Bandcamp: https://philjo.bandcamp.com/releases
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxlkD1TwzAMhvf-ChPmYjeFa5vGWUpnOrAw2rESm9qxT3auhF-P07BwaJHeVx_3nOqH17fT-8flTHRytlnVv0l6NZGYJgu8kKK99ujHQa1bbz1Wwd8UoLQjHItmtapNh8LB__GKPDLWdYwdifSYVyqSy5tRSVdkx1j4OhINptepIptylgWJ2PJCpxRiRakUg2qFC0-td_TsJCgF6mLFBEiFlaPj5f6w3zzv2GFPo_kGbgX2QGWfQfn2HtSa4TrLEqTavtCEmc-amHgnbAQqMN08Xnl0wtq5O8QgEIbEE45AMxEIZyHGphZEI3QLXqYL2thP__QH8k5Fyy3mX-UbI07r4MHFopk9clo8cpk9Iiey3KipaGq6vLH5AYMjipI" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxVkDFvgzAQhff8Cpc9MYFWSQhmSTOXoUvHMz6wGxujs1FKf30hVJV6y-m9Oz19euXT69vl_aO-Mh2drTbl75JeTSzEyaJIJDS3jvzYq23jraeimaA_J9VmU5qWwOHfoyeFVLD0zO5GRV2wQ5oOX2em0XQ6FmyfLTJhgRqR6BiHUHAuoVcNuGHXeMevTqJSqGoLExIHK0cnsuPpuH8-pKcjD-YbhQXqkMtuphH5Y7g1_W2RGUqVv_BIM7M1IYoWbEAOFO-ebiI4sHa59mEAwj6KSCPymQjBWQyhKoFpwnbFm-kGbeyn3_2DfFDxLKe5kDljpGk7eHQhqRaPXVaP1YvH5MTWjJJDVfK1seoHkw6BgA" style=""></iframe>
 
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/da86ead79bfbb57360f91cc01d93cd0eae2fdedf.jpg)
 
