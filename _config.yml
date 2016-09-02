@@ -1,4 +1,3 @@
-layout_spectrum: 0.39904278749600053
 typography_spectrum: 0.36756784887984395
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.39904278749600053
 analytics:
   google: null
   facebook: null
@@ -23,6 +23,8 @@ author:
   name: Phillip Johnson
   email: philjo1005@gmail.com
   url: www.phillipjohnson.org.uk
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef4e81fe-8114-4515-80f8-3f9df279e1bd.jpg
 name: philjo
 cta:
   domain: null
