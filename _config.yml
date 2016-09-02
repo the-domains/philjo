@@ -1,20 +1,4 @@
-name: philjo
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.1279
-title: The official website for philjo
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#000000'
@@ -26,4 +10,24 @@ color:
   lightness: 0.5625
   saturation: 0
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Phillip Johnson
+  email: philjo1005@gmail.com
+  url: www.phillipjohnson.org.uk
+name: philjo
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: The official website for philjo
 purpose: []
