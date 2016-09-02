@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-08-31T09:01:00.098Z'
+datePublished: '2016-08-31T09:04:18.163Z'
 sourcePath: >-
   _posts/2016-07-12-23rd-century-poems-by-philjo-has-released-you-can-get-it-no.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
-author: []
+author:
+  - name: ''
+    url: ''
 via: {}
-dateModified: '2016-08-31T09:00:59.533Z'
-title: ''
+dateModified: '2016-08-31T09:04:17.602Z'
+title: 23rd Century Poems album cover
 publisher: {}
 description: >-
   23rd Century Poems by philjo has released! You can get it now on your
@@ -24,7 +26,7 @@ _type: Article
 23rd Century Poems by philjo has released! You can get it now on your favourite digital music store and streaming sites!
 
 Bandcamp: https://philjo.bandcamp.com/releases
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1b2c64197265191b0dace6270c47cfdc/croprotate.jpg?cropheight=3000&cropwidth=2994&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F3d01bbe0-f69a-43d2-aa58-691d6edbbc03.jpg&x=2&y=0)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/da86ead79bfbb57360f91cc01d93cd0eae2fdedf.jpg)
 
 Deezer: http://www.deezer.com/album/13415337
 
