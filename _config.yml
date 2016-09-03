@@ -31,6 +31,9 @@ cta:
   bucket: null
   version: null
 navigation:
+  - name: Artist of the Month - Ned Rush
+    id: e98240ce-ddf5-42c7-a215-3967b15874fb
+    type: content
   - name: 23rd Century Poems
     id: c237d359-b7d0-4eb9-a7ab-0b3964df6611
     type: content
@@ -39,9 +42,6 @@ navigation:
     type: content
   - name: philjo is back
     id: 95cdcd19-2610-4472-ab4c-8c6774cf3676
-    type: content
-  - name: Artist of the Month - Ned Rush
-    id: e98240ce-ddf5-42c7-a215-3967b15874fb
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3125412b-02d0-4aaa-8c41-7af60bdb3b58.ico
