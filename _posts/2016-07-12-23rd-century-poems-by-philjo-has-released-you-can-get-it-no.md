@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T12:42:31.178Z'
+datePublished: '2016-08-31T13:49:33.306Z'
 sourcePath: >-
   _posts/2016-07-12-23rd-century-poems-by-philjo-has-released-you-can-get-it-no.md
 inFeed: true
@@ -10,7 +10,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-31T12:42:30.682Z'
+dateModified: '2016-08-31T13:49:32.650Z'
 title: 23rd Century Poems album cover
 publisher: {}
 description: >-
