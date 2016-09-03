@@ -1,4 +1,3 @@
-layout_spectrum: 0.39904278749600053
 typography_spectrum: 0.39032084960490465
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.39904278749600053
 analytics:
   google: null
   facebook: null
@@ -39,6 +39,9 @@ navigation:
     type: content
   - name: philjo is back
     id: 95cdcd19-2610-4472-ab4c-8c6774cf3676
+    type: content
+  - name: Artist of the Month - Ned Rush
+    id: e98240ce-ddf5-42c7-a215-3967b15874fb
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3125412b-02d0-4aaa-8c41-7af60bdb3b58.ico
