@@ -40,7 +40,8 @@ navigation:
   - name: philjo is back
     id: 95cdcd19-2610-4472-ab4c-8c6774cf3676
     type: content
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3125412b-02d0-4aaa-8c41-7af60bdb3b58.ico
 title: The official website for philjo
 description: Electronic music for the future
 purpose: []
