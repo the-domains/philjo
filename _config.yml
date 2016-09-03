@@ -30,6 +30,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: 23rd Century Poems
+    id: c237d359-b7d0-4eb9-a7ab-0b3964df6611
+    type: content
 favicon: null
 title: The official website for philjo
 purpose: []
