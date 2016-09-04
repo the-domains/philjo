@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-01T10:09:28.396Z'
+datePublished: '2016-09-01T10:49:40.442Z'
 sourcePath: >-
   _posts/2016-07-12-23rd-century-poems-by-philjo-has-released-you-can-get-it-no.md
 inFeed: true
@@ -10,7 +10,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-09-01T10:09:27.795Z'
+dateModified: '2016-09-01T10:49:39.876Z'
 title: 23rd Century Poems album cover
 publisher: {}
 description: >-
@@ -28,8 +28,6 @@ _type: Article
 Bandcamp: https://philjo.bandcamp.com/releases
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxVkDFvgzAQhff8Cpc9MYFWSQhmSTOXoUvHMz6wGxujs1FKf30hVJV6y-m9Oz19euXT69vl_aO-Mh2drTbl75JeTSzEyaJIJDS3jvzYq23jraeimaA_J9VmU5qWwOHfoyeFVLD0zO5GRV2wQ5oOX2em0XQ6FmyfLTJhgRqR6BiHUHAuoVcNuGHXeMevTqJSqGoLExIHK0cnsuPpuH8-pKcjD-YbhQXqkMtuphH5Y7g1_W2RGUqVv_BIM7M1IYoWbEAOFO-ebiI4sHa59mEAwj6KSCPymQjBWQyhKoFpwnbFm-kGbeyn3_2DfFDxLKe5kDljpGk7eHQhqRaPXVaP1YvH5MTWjJJDVfK1seoHkw6BgA" style=""></iframe>
-
-    <style="border: 0; width: 400px; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2898147098/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://philjo.bandcamp.com/album/23rd-century-poems">23rd Century Poems by philjo</a>>
 
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/da86ead79bfbb57360f91cc01d93cd0eae2fdedf.jpg)
 
